@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 168 33% 95%;
+    --foreground: 224 71% 4%;
+    --card: 168 33% 95%;
+    --card-foreground: 224 71% 4%;
+    --popover: 168 33% 95%;
+    --popover-foreground: 224 71% 4%;
+    --primary: 160 51% 48%;
+    --primary-foreground: 168 33% 95%;
+    --secondary: 90 85% 55%;
+    --secondary-foreground: 90 90% 15%;
+    --muted: 168 20% 90%;
+    --muted-foreground: 224 71% 15%;
+    --accent: 35 85% 70%;
+    --accent-foreground: 224 71% 4%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 168 20% 80%;
+    --input: 168 20% 85%;
+    --ring: 160 51% 48%;
+    --radius: 0.5rem;
+    --chart-1: 160 51% 48%;
+    --chart-2: 35 92% 63%;
+    --chart-3: 160 30% 65%;
+    --chart-4: 35 70% 50%;
+    --chart-5: 35 70% 80%;
+    --chart-6: 30 50% 55%; /* Earthy Brown */
+  }
+
+  .dark {
+    --background: 220 10% 8%; /* Very dark blue-gray */
+    --foreground: 210 20% 85%; /* Lighter gray for text */
+    --card: 220 12% 12%; /* Slightly lighter dark blue-gray for cards */
+    --card-foreground: 210 20% 85%;
+    --popover: 220 10% 8%;
+    --popover-foreground: 210 20% 85%;
+    --primary: 160 70% 50%; /* Teal/Mint Green */
+    --primary-foreground: 220 10% 8%;
+    --secondary: 90 85% 55%; /* Neon Green */
+    --secondary-foreground: 90 90% 15%; /* Dark green for text on neon */
+    --muted: 220 10% 16%;
+    --muted-foreground: 210 20% 60%;
+    --accent: 160 70% 40%;
+    --accent-foreground: 210 20% 95%;
+    --destructive: 0 62.8% 50.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 220 10% 20%;
+    --input: 220 10% 16%;
+    --ring: 160 70% 50%;
+    --chart-1: 160 70% 50%;
+    --chart-2: 35 92% 55%;
+    --chart-3: 160 50% 70%;
+    --chart-4: 35 70% 60%;
+    --chart-5: 160 30% 80%;
+    --chart-6: 30 40% 65%;
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .animate-pulse-once {
+    animation: pulse 0.5s ease-in-out;
+  }
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes pulse {
+  50% {
+    opacity: .5;
+  }
+}
+
+@keyframes slide-up-fade {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
