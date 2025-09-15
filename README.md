@@ -3,7 +3,7 @@
 
 ![Samriddh Kheti](https://khetibuddy.com/wp-content/uploads/2024/06/Crops.jpg)
 
-**Samriddh Kheti** (meaning *Prosperous Farming*) is a multilingual, AI-driven web application designed to be a modern farmer's most trusted digital companion. By providing a suite of powerful, easy-to-use tools, we deliver personalized, data-driven insights to revolutionize agricultural practices in India.
+**Samriddh Kheti** (meaning *Prosperous Farming*) is a multilingual, AI-driven web application designed to be a modern farmer's most trusted digital companion. By providing a suite of powerful, easy-to-use tools, we deliver personalized, data-driven insights to revolutionize agricultural practices  in India.
 
 ## 1. The Problem
 
