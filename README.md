@@ -83,7 +83,7 @@ To get a local copy up and running, follow these simple steps.
 
 Samriddh Kheti was proudly developed by **Team Seedsorrowers**:
 
-*   **AAdityaAdarsh25**
+*   **AdityaAdarsh25**
 *   **Jayesh Kumar Singh**
 *   **Lavish Patel**
 *   **Vidushi Srivastava**
