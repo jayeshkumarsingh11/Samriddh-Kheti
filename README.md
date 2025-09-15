@@ -3,7 +3,7 @@
 
 ![Samriddh Kheti](https://khetibuddy.com/wp-content/uploads/2024/06/Crops.jpg)
 
-**Samriddh Kheti** (meaning *Prosperous Farming*) is a multilingual, AI-driven web application designed to be a modern farmer's most trusted digital companion. By providing a suite of powerful, easy-to-use tools, we deliver personalized, data-driven insights to revolutionize agricultural practices in India.
+**Samriddh Kheti** (meaning *Prosperous Farming*) is a multilingual, AI-driven web application designed to be a modern farmer's most trusted digital companion. By providing a suite of powerful, easy-to-use tools, we deliver personalized, data-driven insights to revolutionize agricultural practices  in India.
 
 ## 1. The Problem
 
@@ -46,7 +46,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/samriddh-kheti.git
+    git clone https://github.com/jayeshkumarsingh11/Samriddh-Kheti.git
     cd samriddh-kheti
     ```
 
@@ -83,9 +83,10 @@ To get a local copy up and running, follow these simple steps.
 
 Samriddh Kheti was proudly developed by **Team Seedsorrowers**:
 
+*   **AdityaAdarsh25**
 *   **Jayesh Kumar Singh**
+*   **Lavish Patel**
 *   **Vidushi Srivastava**
-*   **Kritika Singh**
 
 ---
 
