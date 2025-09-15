@@ -46,7 +46,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/samriddh-kheti.git
+    git clone https://github.com/jayeshkumarsingh11/Samriddh-Kheti.git
     cd samriddh-kheti
     ```
 
@@ -83,9 +83,10 @@ To get a local copy up and running, follow these simple steps.
 
 Samriddh Kheti was proudly developed by **Team Seedsorrowers**:
 
+*   **AAdityaAdarsh25**
 *   **Jayesh Kumar Singh**
+*   **Lavish Patel**
 *   **Vidushi Srivastava**
-*   **Kritika Singh**
 
 ---
 
