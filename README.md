@@ -31,7 +31,7 @@ Samriddh Kheti is built with a modern, robust, and scalable technology stack:
 *   **Frontend**: [Next.js](https://nextjs.org/) (with App Router), [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
 *   **Styling**: [Tailwind CSS](https://tailwindcss.com/), [ShadCN UI](https://ui.shadcn.com/)
 *   **Generative AI**: [Google's Gemini models](https://deepmind.google/technologies/gemini/) via [Genkit](https://firebase.google.com/docs/genkit), Google's open-source GenAI framework.
-*   **Deployment**: Hosted on [Firebase App Hosting](https://firebase.google.com/docs/app-hosting).
+*   **Deployment**: Hosted on [Vercel]
 
 ## 5. Getting Started
 
@@ -83,7 +83,7 @@ To get a local copy up and running, follow these simple steps.
 
 Samriddh Kheti was proudly developed by **Team Seedsorrowers**:
 
-*   **AdityaAdarsh25**
+*   **Aditya Adarsh**
 *   **Jayesh Kumar Singh**
 *   **Lavish Patel**
 *   **Vidushi Srivastava**
