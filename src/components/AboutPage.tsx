@@ -125,7 +125,7 @@ export default function AboutPage() {
         <p className="mt-2 text-muted-foreground">
           {t('meet_team_subtitle')}
         </p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-8">
           {teamMembers.map((member, index) => (
             <div key={index} className="group">
               <Card className="text-center h-full transition-all duration-300 group-hover:shadow-xl group-hover:border-primary">
