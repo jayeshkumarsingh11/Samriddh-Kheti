@@ -77,7 +77,7 @@ To get a local copy up and running, follow these simple steps.
         ```
 
 5.  **Open the application:**
-    Open [https://samriddh-kheti.vercel.app/]((https://samriddh-kheti.vercel.app/)) with your browser to see the result. You can start editing the page by modifying `src/app/page.tsx`.
+    Open [https://samriddh-kheti.vercel.app/](https://samriddh-kheti.vercel.app/) with your browser to see the result. You can start editing the page by modifying `src/app/page.tsx`.
 
 ## 6. Our Team
 
