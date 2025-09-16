@@ -81,7 +81,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## 6. Our Team
 
-Samriddh Kheti was proudly developed by **Team Seedsorrowers**:
+Samriddh Kheti was proudly developed by **Team MythBusters**:
 
 *   **Aditya Adarsh**
 *   **Jayesh Kumar Singh**
