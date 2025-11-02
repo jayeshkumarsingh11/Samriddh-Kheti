@@ -28,12 +28,8 @@ const toolNavItems: NavItem[] = [
 ];
 
 const languageOptions = [
-    { name: 'English', code: 'en' },
+    { name: 'English', code: 'en' }, //English
     { name: 'हिंदी', code: 'hi' }, // Hindi
-    { name: 'தமிழ்', code: 'ta' }, // Tamil
-    { name: 'తెలుగు', code: 'te' }, // Telugu
-    { name: 'ಕನ್ನಡ', code: 'kn' }, // Kannada
-    { name: 'ਪੰਜਾਬੀ', code: 'pa' }, // Punjabi
 ];
 
 export default function TopNavBar({ activeItem, setActiveItem }: TopNavBarProps) {
